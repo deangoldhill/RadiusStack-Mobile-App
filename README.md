@@ -8,7 +8,7 @@ The app is quite basic and mostly designed for visability like stats and session
 There are 3 pinned tabs; Overview - which is the dashboard page of the selected tenant, Sessions - which is the active session table, Users - which is the users page, and more - in which you can change tenants and access every other page 
 
 # Installation
-I wanted to publish this on the Playstore, but google seem to be really against non-profit indaviduals publishing apps because it provides them little to no revenue. Their allegiance is to large companies monetizing apps who can afford to go through the wildly intensive process.
+I wanted to publish this on the Playstore, but google seem to be really against non-profit individuals publishing apps because it provides them little to no revenue. Their allegiance is to large companies monetizing apps who can afford to go through the wildly intensive process.
 
 Therefore, I have given up trying to publish on the playstore.
 
